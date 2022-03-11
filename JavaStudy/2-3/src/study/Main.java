@@ -14,7 +14,7 @@ public class Main {
 
         // ③ Taskクラスのインスタンスを生成し、「doTask()」メソッドを呼び出しなさい。
     	Task task = new Task();
-    	task.doTask(10,20,30);
+    	task.doTask();
 
     }
 
