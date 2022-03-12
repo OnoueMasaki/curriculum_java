@@ -29,6 +29,7 @@ public class Study {
     	shohinList.add(SHOP_SHOHIN_03);
 
         // ② 以下の「shopMap.put(shohinList.get(1), 180);」の処理について、コメントを記述してください。
+    	// showMapにshopListの2番目の要素と180という数字をputしている
         /*
          * [ここへ記述]
          *
